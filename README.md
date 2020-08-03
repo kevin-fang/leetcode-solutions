@@ -1,6 +1,6 @@
 ### LeetCode Solutions:
 
-Total problems solved: 16
+Total problems solved: 20
 
 * [5 Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring): [Solution](https://github.com/Kevin-Fang/leetcode-solutions/blob/master/5.%20Longest%20Palindromic%20Substring.py)
 
@@ -16,6 +16,8 @@ Total problems solved: 16
 
 * [24 Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs): [Solution](https://github.com/Kevin-Fang/leetcode-solutions/blob/master/24.%20Swap%20Nodes%20in%20Pairs.py)
 
+* [31 Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array): [Solution](https://github.com/Kevin-Fang/leetcode-solutions/blob/master/31.%20Search%20in%20Rotated%20Sorted%20Array.py)
+
 * [31 Next Permutation](https://leetcode.com/problems/next-permutation): [Solution](https://github.com/Kevin-Fang/leetcode-solutions/blob/master/31.%20Next%20Permutation.cpp)
 
 * [48 Rotate Image](https://leetcode.com/problems/rotate-image): [Solution](https://github.com/Kevin-Fang/leetcode-solutions/blob/master/48.%20Rotate%20Image.py)
@@ -23,6 +25,8 @@ Total problems solved: 16
 * [49 Group Anagrams](https://leetcode.com/problems/group-anagrams): [Solution](https://github.com/Kevin-Fang/leetcode-solutions/blob/master/49.%20Group%20Anagrams.py)
 
 * [50 Powx-n](https://leetcode.com/problems/powx-n): [Solution](https://github.com/Kevin-Fang/leetcode-solutions/blob/master/50.%20Powx-n.cpp)
+
+* [53 Maximum Subarray](https://leetcode.com/problems/maximum-subarray): [Solution](https://github.com/Kevin-Fang/leetcode-solutions/blob/master/53.%20Maximum%20Subarray.py)
 
 * [78 Subsets](https://leetcode.com/problems/subsets): [Solution](https://github.com/Kevin-Fang/leetcode-solutions/blob/master/78.%20Subsets.py)
 
@@ -32,5 +36,9 @@ Total problems solved: 16
 
 * [121 Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock): [Solution](https://github.com/Kevin-Fang/leetcode-solutions/blob/master/121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock.py)
 
+* [139 Word Break](https://leetcode.com/problems/word-break): [Solution](https://github.com/Kevin-Fang/leetcode-solutions/blob/master/139.%20Word%20Break.py)
+
 * [200 Number of Islands](https://leetcode.com/problems/number-of-islands): [Solution](https://github.com/Kevin-Fang/leetcode-solutions/blob/master/200.%20Number%20of%20Islands.py)
+
+* [238 Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self): [Solution](https://github.com/Kevin-Fang/leetcode-solutions/blob/master/238.%20Product%20of%20Array%20Except%20Self.py)
 
